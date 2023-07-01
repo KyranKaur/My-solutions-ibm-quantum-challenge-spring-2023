@@ -25,7 +25,7 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 
 ## My Challenge Solutions
 
-- [Lab 1: Intro to Dynamic Circuits](./content/lab_1/lab1 Solution.ipynb) 
+- [Lab 1: Intro to Dynamic Circuits](content/lab_1/lab1 Solution.ipynb) 
 - [Lab 2: Quantum Teleportation](./content/lab_2/lab2 Solution.ipynb) 
 - [Lab 3: Iterative Phase Estimation](./content/lab_3/lab3 Solution.ipynb) 
 - [Lab 4: Quantum Error Correction](content/lab_4)
