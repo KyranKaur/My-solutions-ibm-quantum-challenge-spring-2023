@@ -15,7 +15,7 @@ This event will feature 5 Labs, each with exercises and tutorial content to get 
 The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relatively easy, while others should put your knowledge to the test. We hope this experience will turbocharge your exploration of IBM Quantum hardware and software, while providing an opportunity to network with members of the IBM Quantum and Qiskit community.
 
 
-## Challenge content
+## Challenge Content
 - [Lab 1: Intro to Dynamic Circuits](./content/lab_1/lab1.ipynb) 
 - [Lab 2: Quantum Teleportation](./content/lab_2/lab2.ipynb) 
 - [Lab 3: Iterative Phase Estimation](./content/lab_3/lab3.ipynb) 
@@ -23,7 +23,7 @@ The IBM Quantum Challenge is exactly that: a challenge. Some labs will be relati
 - Lab 5: Using a 127-qubit System
 
 
-## Challenge solution examples
+## My Challenge Solutions
 
 _Solutions will be posted once the challenge completes._
 
